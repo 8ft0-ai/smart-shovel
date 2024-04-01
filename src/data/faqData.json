@@ -1,26 +1,56 @@
 [
     {
         "id": 1,
-        "title": "What is Notion?",
+        "title": "How does the Wi-Fi connectivity work on the SmartShovel?",
         "isOpen": true,
-        "content": "Notion is an all-in-one productivity tool that allows you to create notes, databases, and collaborative workspaces, making it easy to organize and manage your tasks, projects, and ideas in one place."
+        "content": "SmartShovel seamlessly connects to your home Wi-Fi network, enabling it to send real-time data directly to the display on your shovel’s handle. This includes soil analysis, weather updates, and customized gardening tips. Ensure your garden area is within your Wi-Fi network's range for optimal performance."
     },
     {
         "id": 2,
-        "title": "Who is this template for?",
+        "title": "Can SmartShovel really track my gardening activity?",
         "isOpen": false,
-        "content": "This template is specifically designed for Notion creators who want to create a personalized landing page for their Notion workspace, showcasing their projects, services, or content in a visually appealing manner."
+        "content": "Absolutely! SmartShovel is equipped with an advanced activity tracker that monitors every movement, from lifting to turning the soil, providing you with detailed insights into the calories burned during your gardening sessions. It's a fantastic way to keep track of the physical benefits of gardening."
     },
     {
         "id": 3,
-        "title": "Do I need to pay for this?",
+        "title": "What kind of advice does the AI Gardening Assistant offer?",
         "isOpen": false,
-        "content": "No, this is free."
+        "content": "Our AI Gardening Assistant offers a wide range of advice, including the best planting depth for your seeds, the ideal locations for your plants based on sunlight exposure, and personalized hydration reminders for both you and your plants. It leverages a comprehensive database of plant care knowledge to offer tailored advice for your garden's specific needs."
+    },
+    {
+        "id": 4,
+        "title": "How does the Mood Music for Plants feature work?",
+        "isOpen": false,
+        "content": "SmartShovel's Mood Music for Plants feature utilizes integrated speakers to play plant-optimized frequencies that research has shown to stimulate plant growth and health. You can select from a pre-set playlist or customize your own mix to provide your plants with a soothing auditory environment that encourages growth."
     },
     {
         "id": 5,
-        "title": "Where can I ask more questions about this template?",
+        "title": "Is SmartShovel durable and weather-resistant?",
         "isOpen": false,
-        "content": "If you have any further questions or need assistance regarding this template, please feel free to reach out to me on my website, or click the Contact within the navigation links."
+        "content": "Yes, SmartShovel is designed with durability and weather resistance in mind. It's built to withstand the rigors of gardening and the elements. However, we recommend storing it in a dry, sheltered place when not in use to extend its lifespan."
+    },
+    {
+        "id": 6,
+        "title": "Can I customize the settings on my SmartShovel?",
+        "isOpen": false,
+        "content": "Definitely. SmartShovel allows for a high degree of customization. You can adjust settings such as Wi-Fi connectivity, activity tracking sensitivity, and AI assistant preferences through the SmartShovel app on your smartphone or directly on the shovel’s handle display."
+    },
+    {
+        "id": 7,
+        "title": "How often do I need to charge my SmartShovel?",
+        "isOpen": false,
+        "content": "SmartShovel's battery life varies based on usage, but on average, it should last for several gardening sessions. We recommend charging your SmartShovel after each use to ensure it's always ready for your next gardening adventure. A full charge takes approximately 2 hours."
+    },
+    {
+        "id": 8,
+        "title": "Where can I purchase SmartShovel and what does it cost?",
+        "isOpen": false,
+        "content": "SmartShovel is available for purchase directly on our website and through select retail partners. Pricing and availability can vary, so please visit our website or contact our sales team for the most current information."
+    },
+    {
+        "id": 9,
+        "title": "Does SmartShovel come with a warranty?",
+        "isOpen": false,
+        "content": "Yes, SmartShovel comes with a one-year warranty covering manufacturer defects and malfunctions. For more details on the warranty and how to make a claim, please visit our website's support section."
     }
 ]

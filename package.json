@@ -1,8 +1,8 @@
 {
-    "name": "astro-nutritrack",
+    "name": "astro-SmartShovel",
     "type": "module",
     "version": "1.1.0",
-    "description": "NutriTrack - A customizable landing page theme built with AstroJS and TailwindCSS, specifically designed for Notion creators.",
+    "description": "SmartShovel - A customizable landing page theme built with AstroJS and TailwindCSS, specifically designed for Notion creators.",
     "main": "index.astro",
     "private": false,
     "keywords": [
@@ -17,8 +17,8 @@
         "tailwindcss",
         "tailwind"
     ],
-    "author": "chrstnl",
-    "homepage": "https://www.chrstnl.com/",
+    "author": "8ft0",
+    "homepage": "https://www.8ft0.com/",
     "scripts": {
         "dev": "astro dev",
         "start": "astro dev",

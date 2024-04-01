@@ -1,16 +1,30 @@
 [
     {
         "id": 1,
-        "title": "Effortless Planning",
-        "content": "Say goodbye to meal planning stress! With NutriTrack, planning your meals becomes a breeze. Our user-friendly Notion template lets you create customized daily or weekly meal plans effortlessly. Enjoy a balanced and nutritious diet without the hassle.",
+        "title": "Wi-Fi Connectivity",
+        "content": "Sync your SmartShovel™ with your home network to receive real-time soil analysis, weather updates, and even tips on where to dig, directly to your shovel’s handle display.",
         "align": "right",
-        "image": "/images/features1.png"
+        "image": "/images/features1.webp"
     },
     {
-        "id": 1,
-        "title": "Shopping List",
-        "content": "We've got your grocery shopping covered! NutriTrack includes a handy shopping list feature. As you plan your meals, the template automatically generates a comprehensive shopping list. No more forgotten items or aimless wandering in the supermarket. Shopping for healthy ingredients has never been easier!",
+        "id": 2,
+        "title": "Activity Tracking:",
+        "content": "Ever wonder how many calories you burn while pursuing the noble act of digging? Wonder no more. The SmartShovel™ comes equipped with an activity tracker that logs every lift, every turn of soil, and calculates your burned calories with astonishing precision.",
         "align": "left",
-        "image": "/images/features2.png"
+        "image": "/images/features2.webp"
+    },
+    {
+        "id": 3,
+        "title": "AI Gardening Assistant:",
+        "content": "everaging the power of AI, the SmartShovel™ advises you on the optimal depth for planting, the ideal spots for your plants based on sunlight exposure, and even reminds you to take a break and hydrate. It's like having a master gardener by your side, always.",
+        "align": "right",
+        "image": "/images/features3.webp"
+    },
+    {
+        "id": 4,
+        "title": "Mood Music for Plants",
+        "content": "Research shows that music can influence plant growth. Our shovel takes this to the next level with integrated speakers that play frequencies proven to enhance plant health and growth. Now, you can serenade your garden to verdant perfection.",
+        "align": "left",
+        "image": "/images/features4.webp"
     }
 ]

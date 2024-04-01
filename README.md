@@ -1,16 +1,16 @@
 <div align="center">
-  <img alt="NutriTrack logo" src="/public/nutritrack.svg" width="100" />
+  <img alt="SmartShovel logo" src="/public/SmartShovel.svg" width="100" />
 </div>
 
 <h1 align="center">
-  Astro NutriTrack - A landing page template 🚀
+ SmartShovel - Revolutionize Your Gardening Experience 🚀
 </h1>
 
 A simple landing page theme built with AstroJS and TailwindCSS, specifically designed for Notion creators. It's easy to customize, allowing you to create a minimalistic site that fits your style using its versatile components.
 
 <hr>
 
-![NutriTrack Mockup](/public/images/nutritrack.png)
+![SmartShovel Mockup](/public/images/SmartShovel.png)
 
 ## Key Features:
 
@@ -25,13 +25,13 @@ A simple landing page theme built with AstroJS and TailwindCSS, specifically des
 
 ## Lighthouse Score
 
-NutriTrack scores 100/100 in the Lighthouse performance audit.
+SmartShovel scores 100/100 in the Lighthouse performance audit.
 
-![NutriTrack Lighthouse Score](/lighthouse-score.png)
+![SmartShovel Lighthouse Score](/lighthouse-score.png)
 
 ## Demo
 
-Check out the [Demo](https://astro-nutritrack.chrstnl.com/), hosted on Vercel.
+Check out the [Demo](https://astro-SmartShovel.8ft0.com/), hosted on Vercel.
 
 ## Commands
 
@@ -53,7 +53,7 @@ env: {
   siteTitle: 'Your Company',
   siteDescription: 'Your company description.',
   siteKeywords: 'your company keywords',
-  siteUrl: 'https://astro-nutritrack.chrstnl.com/',
+  siteUrl: 'https://astro-SmartShovel.8ft0.com/',
   siteImagePreviewUrl: '/images/preview.jpeg',
   twitterHandle: '@your_handle'
 }
@@ -85,4 +85,4 @@ If you have any suggestions/feedback feel free to open an issue if you find bugs
 
 ---
 
-Made by [chrstnl](https://chrstnl.com/)
+Made by [8ft0](https://8ft0.com/)
